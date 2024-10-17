@@ -41,4 +41,4 @@ print(f"Bilangan Terbesar yang dimasukan adalah: {MAX}")
 ```
 
 ## Contoh Hasil Eksekusi Program
-![foto]()
+![foto](https://github.com/Nakii-ru/foto/blob/main/Screenshot%202024-10-17%20222239.png?raw=true)
