@@ -13,3 +13,32 @@ Program ini dibuat untuk menentukan bilangan Terbesar dari serangkaian Nilai bil
 Program ini menggunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar yang diinputkan.
 
 ## Flowchart Program
+![foto](https://github.com/Nakii-ru/foto/blob/main/Screenshot%202024-10-17%20220558.png?raw=true)
+
+## Penjelasan Kode Program
+```python
+# Inisialisasi MAX dengan negatif tak hingga
+MAX = float('-inf')
+while True:
+
+        # Input Nilai Oleh Pengguna
+        N = int(input("Masukkan Nilai N: "))
+
+        # Jika Nilai 0 diinputkan maka loop akan berakhir
+        if N == 0:
+            print("Proses selesai.")
+            break
+
+        # Cek apakah bilangan yang diinputkan lebih besar dari MAX 
+        if N > MAX:
+
+        # Update MAX bila N Lebih besar dari MAX
+        MAX = N
+
+# OUTPUT Nilai N terbesar
+print(f"Bilangan Terbesar yang dimasukan adalah: {MAX}")
+
+```
+
+## Contoh Hasil Eksekusi Program
+![foto]()
