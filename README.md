@@ -51,7 +51,7 @@ Baris `while true` akan terus berjalan hingga suatu kondisi didalam loop menyeba
 ```python
 N = int(input("Masukkan Nilai N: ))
 ```
-Baris ini akan meminta input dari pengguna berupa bilangan bulat menggunakan `int(input("masukan nilai: "))`, nilai input tersebut kemudian akan disimpan sebagai nilai variabel `N`
+Baris ini akan meminta input dari pengguna berupa bilangan bulat menggunakan `int`(integer), nilai input tersebut kemudian akan disimpan sebagai nilai variabel `N`
 ```python
 if N == 0
 ```
