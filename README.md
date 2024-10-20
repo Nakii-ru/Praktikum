@@ -13,7 +13,7 @@ Program ini dibuat untuk menentukan bilangan Terbesar dari serangkaian Nilai bil
 Program ini menggunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar yang diinputkan.
 
 ## Flowchart Program
-![foto](https://github.com/Nakii-ru/foto/blob/main/Screenshot%202024-10-17%20220558.png?raw=true)
+![foto](https://github.com/Nakii-ru/foto/blob/main/Screenshot%202024-10-20%20153530.png?raw=true)
 
 ## Kode Program
 ```python
