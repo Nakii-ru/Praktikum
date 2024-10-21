@@ -42,7 +42,7 @@ print(f"Bilangan Terbesar yang dimasukan adalah: {MAX}")
 ```python
 MAX = float('-inf')
 ```
-Program dimulai dengan menginisialisasi variabel `MAX` dengan nilai minus tak hingga menggunakan `float('-inf')`, ini bertujuan agar bilangan yang akan diinputkan akan lebih besar dari nilai awal dan akan menggantikan nilai max.
+Program dimulai dengan menginisialisasi variabel `MAX` dengan nilai minus tak hingga menggunakan `float('-inf')`, ini bertujuan agar bilangan yg akan diinputkan akan lebih besar dari nilai awal dan akan menggantikan nilai max.
 ```python
 while true:
 ```
@@ -54,19 +54,19 @@ Baris ini akan meminta input dari pengguna berupa bilangan bulat menggunakan `in
 ```python
 if N == 0
 ```
-Baris ini akan memeriksa apakah nilai yang diinputkan oleh pengguna adalah `0`. Jika ya, maka program akan mengeluarkan pesan "Proses selesai." dan mengakhiri loop dengan perintah `break`.
+Baris ini akan memeriksa apakah nilai yg diinputkan oleh pengguna adalah `0`. Jika ya, maka program akan mengakhiri loop dengan perintah `break`.
 ```python
 if N > MAX
 ```
-Ini adalah kondisi yang memeriksa apakah nilai N yang diinputkan oleh pengguna lebih besar dari nilai MAX saat ini. Jika iya, berarti ada bilangan yang lebih besar dari MAX saat ini, dan oleh karena itu nilai MAX perlu diperbarui.
+Ini adalah kondisi yg memeriksa apakah nilai N yang diinputkan oleh pengguna lebih besar dari nilai MAX saat ini. Jika iya, berarti ada bilangan yang lebih besar dari MAX saat ini, dan oleh karena itu nilai MAX perlu diperbarui.
 ```python
 MAX = N
 ```
-ika kondisi di atas (N > MAX) terpenuhi, maka nilai MAX diperbarui dengan nilai N. Ini bertujuan untuk menyimpan bilangan terbesar yang diinputkan sejauh ini.
+Jika kondisi di atas (N > MAX) terpenuhi, maka nilai MAX diperbarui dengan nilai N. Ini bertujuan untuk menyimpan bilangan terbesar yg diinputkan sejauh ini.
 ```python
-printf("Bilangan Terbesar yang dimasukkan adalah: {MAX}")
+print("Bilangan Terbesar yang dimasukkan adalah: ", MAX)
 ```
-Setelah loop selesai (ketika pengguna menginputkan `0`), program menampilkan bilangan terbesar yang diinputkan selama proses. F-string (f"...") digunakan di sini untuk menyisipkan nilai variabel MAX ke dalam string.
+Setelah loop selesai, program akan menampilkan bilangan yg terbesar selama proses berlangsung.
 
 ## Contoh Hasil Eksekusi Program
-![foto](https://github.com/Nakii-ru/foto/blob/main/Screenshot%202024-10-21%20101159.png?raw=true)
+![foto](https://github.com/Nakii-ru/foto/blob/main/Screenshot%202024-10-21%20132539.png?raw=true)
