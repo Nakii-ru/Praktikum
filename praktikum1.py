@@ -1,3 +1,4 @@
+# Inisiasi nilai MAX menjadi minus tak hingga
 MAX = float('-inf')
 while True:
         # Input N dari pengguna
