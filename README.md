@@ -69,4 +69,4 @@ printf("Bilangan Terbesar yang dimasukkan adalah: {MAX}")
 Setelah loop selesai (ketika pengguna menginputkan `0`), program menampilkan bilangan terbesar yang diinputkan selama proses. F-string (f"...") digunakan di sini untuk menyisipkan nilai variabel MAX ke dalam string.
 
 ## Contoh Hasil Eksekusi Program
-![foto](https://github.com/Nakii-ru/foto/blob/main/Screenshot%202024-10-17%20222239.png?raw=true)
+![foto](https://github.com/Nakii-ru/foto/blob/main/Screenshot%202024-10-21%20101159.png?raw=true)
