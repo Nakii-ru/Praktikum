@@ -26,7 +26,6 @@ while True:
 
         # Jika Nilai 0 diinputkan maka loop akan berakhir
         if N == 0:
-            print("Proses selesai.")
             break
 
         # Cek apakah bilangan yang diinputkan lebih besar dari MAX 
