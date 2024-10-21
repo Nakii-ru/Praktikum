@@ -58,7 +58,7 @@ Baris ini akan memeriksa apakah nilai yg diinputkan oleh pengguna adalah `0`. Ji
 ```python
 if N > MAX
 ```
-Ini adalah kondisi yg memeriksa apakah nilai N yang diinputkan oleh pengguna lebih besar dari nilai MAX saat ini. Jika iya, berarti ada bilangan yang lebih besar dari MAX saat ini, dan oleh karena itu nilai MAX perlu diperbarui.
+Ini adalah kondisi yg memeriksa apakah nilai N yg diinputkan oleh pengguna lebih besar dari nilai MAX saat ini. Jika iya, berarti ada bilangan yg lebih besar dari MAX saat ini, dan oleh karena itu nilai MAX perlu diperbarui.
 ```python
 MAX = N
 ```
