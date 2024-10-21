@@ -10,6 +10,6 @@ while True:
         
         # Cek apakah bilangan yang diinputkan lebih besar dari MAX 
         if N > MAX:
-        # Jika kondisi diatas sudah terpenuhi (N > MAX)
+        # Jika kondisi diatas sudah terpenuhi (N > MAX), Maka Nilai MAX akan diperbarui dengan nilai N
             MAX = N
 print("Bilangan Terbesar yang dimasukan adalah: ", MAX)
